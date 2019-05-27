@@ -1,0 +1,635 @@
+[
+  {
+    "title": "Em seu Programa de Benefécios, o Compra Certa disponibiliza créditos para seus membros. Quais são todas as atuais formas de se acumular créditos no clube?",
+    "id": 0,
+    "alreadyChosen": false,
+    "type": 0,
+    "weight": 0,
+    "alternatives": [
+      {
+        "title": "Cumprindo missões e convidando amigos.",
+        "id": 0,
+        "isRight": false
+      },
+      {
+        "title": " Os créditos devem ser comprados e presenteados para outros membros.",
+        "id": 1,
+        "isRight": false
+      },
+      {
+        "title": "Cumprindo missões, através das compras de seus convidados e, nos niveis prata e ouro, através de suas próprias compras.",
+        "id": 2,
+        "isRight": true
+      },
+      {
+        "title": "Nenhuma das respostas anteriores.",
+        "id": 3,
+        "isRight": false
+      }
+    ]
+  },
+  {
+    "title": "Quais marcas vendidas no Compra Certa são entregues direto da fábrica?",
+    "id": 1,
+    "alreadyChosen": false,
+    "type": 0,
+    "weight": 0,
+    "alternatives": [
+      {
+        "title": "Brastemp, Consul.",
+        "id": 0,
+        "isRight": false
+      },
+      {
+        "title": "Brastemp, Consul e KitchenAid.",
+        "id": 1,
+        "isRight": true
+      },
+      {
+        "title": "Brastemp, Consul, Sony",
+        "id": 2,
+        "isRight": false
+      },
+      {
+        "title": "Brastemp e KitchenAid.",
+        "id": 3,
+        "isRight": false
+      }
+    ]
+  },
+  {
+    "title": "Quantos anos tem o Compra Certa?",
+    "id": 2,
+    "alreadyChosen": false,
+    "type": 0,
+    "weight": 0,
+    "alternatives": [
+      {
+        "title": "30",
+        "id": 0,
+        "isRight": true
+      },
+      {
+        "title": "10",
+        "id": 1,
+        "isRight": false
+      },
+      {
+        "title": "5",
+        "id": 2,
+        "isRight": false
+      },
+      {
+        "title": "35",
+        "id": 3,
+        "isRight": false
+      }
+    ]
+  },
+  {
+    "title": "Quais são as novidades que o Compra Certa trouxe em 2019 para o clube?",
+    "id": 3,
+    "alreadyChosen": false,
+    "type": 0,
+    "weight": 0,
+    "alternatives": [
+      {
+        "title": "Gamificação, Operação Marketplace e Programa de Benefécios",
+        "id": 0,
+        "isRight": true
+      },
+      {
+        "title": "Gamificação, Programa de Indicação e Inteligência Artificial",
+        "id": 1,
+        "isRight": false
+      },
+      {
+        "title": "Marketplace, Segmentação do consumidores em niveis e BOTS",
+        "id": 2,
+        "isRight": false
+      },
+      {
+        "title": "Todas as alternativas anteriores",
+        "id": 3,
+        "isRight": false
+      }
+    ]
+  },
+  {
+    "title": "Quais as novas categorias vendidas no Compra Certa?",
+    "id": 4,
+    "alreadyChosen": false,
+    "type": 0,
+    "weight": 0,
+    "alternatives": [
+      {
+        "title": "Casa e Bem-estar.",
+        "id": 0,
+        "isRight": true
+      },
+      {
+        "title": "Móveis e Cosméticos.",
+        "id": 1,
+        "isRight": false
+      },
+      {
+        "title": "Casa e Moda.",
+        "id": 2,
+        "isRight": false
+      },
+      {
+        "title": "Eletrodomésticos e Informática.",
+        "id": 3,
+        "isRight": false
+      }
+    ]
+  },
+  {
+    "title": "O Compra Certa é um clube de compras fechado. Quais são as formas de entrada nele?",
+    "id": 5,
+    "alreadyChosen": false,
+    "type": 0,
+    "weight": 0,
+    "alternatives": [
+      {
+        "title": "Compra de acesso, convite e via parcerias.",
+        "id": 0,
+        "isRight": true
+      },
+      {
+        "title": "Pagamento de anuidade, convite e parceria.",
+        "id": 1,
+        "isRight": false
+      },
+      {
+        "title": "Código promocional e convite.",
+        "id": 2,
+        "isRight": false
+      },
+      {
+        "title": "Nenhuma das alternativas acima.",
+        "id": 3,
+        "isRight": false
+      }
+    ]
+  },
+  {
+    "title": "Como o Programa de Benefécios Compra Certa beneficia as marcas parceiras vendidas no clube?",
+    "id": 6,
+    "alreadyChosen": false,
+    "type": 0,
+    "weight": 0,
+    "alternatives": [
+      {
+        "title": "Garantindo o pagamento das compras com créditos acumulados pelos membros do clube. O valor total da compra é repassado à marca parceira, sem prejuízos.",
+        "id": 0,
+        "isRight": true
+      },
+      {
+        "title": "Reduzindo o número de meios de pagamento nas compras.",
+        "id": 1,
+        "isRight": false
+      },
+      {
+        "title": "Garantindo um maior opti-in das comunicaçães de marcas parceiras.",
+        "id": 2,
+        "isRight": false
+      },
+      {
+        "title": "Todas as opções acima.",
+        "id": 3,
+        "isRight": false
+      }
+    ]
+  },
+  {
+    "title": "Quais das marcas abaixo ainda NÃO estão disponóveis no Compra Certa?",
+    "id": 7,
+    "alreadyChosen": false,
+    "type": 0,
+    "weight": 0,
+    "alternatives": [
+      {
+        "title": "Philips, Sony, e Avon.",
+        "id": 0,
+        "isRight": false
+      },
+      {
+        "title": "Finnish, Air Wick.",
+        "id": 1,
+        "isRight": false
+      },
+      {
+        "title": "Vanish e Brastemp.",
+        "id": 2,
+        "isRight": false
+      },
+      {
+        "title": "Nenhuma das opções acima.",
+        "id": 3,
+        "isRight": true
+      }
+    ]
+  },
+  {
+    "title": "Quais as principais vantagens em ser um parceiro marketplace do Compra Certa?",
+    "id": 8,
+    "alreadyChosen": false,
+    "type": 0,
+    "weight": 0,
+    "alternatives": [
+      {
+        "title": "Trabalhar preços competitivos em um clube de compras fechado.",
+        "id": 0,
+        "isRight": false
+      },
+      {
+        "title": "Ter um markerplace parceiro da indústria.",
+        "id": 1,
+        "isRight": false
+      },
+      {
+        "title": "Os membros do clube podem usar créditos do clube na compra de produtos parceiros e o Compra Certa repassa o valor total da compra.",
+        "id": 2,
+        "isRight": false
+      },
+      {
+        "title": "Todas as opções acima.",
+        "id": 3,
+        "isRight": true
+      }
+    ]
+  },
+  {
+    "title": "O que são produtos Outlet, disponíveis no Compra Certa?",
+    "id": 9,
+    "alreadyChosen": false,
+    "type": 0,
+    "weight": 0,
+    "alternatives": [
+      {
+        "title": "Produtos que podem apresentar avarias funcionais e, por isso, podem ser vendidos a um preço abaixo do mercado.",
+        "id": 0,
+        "isRight": false
+      },
+      {
+        "title": "Produtos exclusivamente Consul que podem apresentar pequenas avarias estéticas, mas nunca avarias funcionais",
+        "id": 1,
+        "isRight": false
+      },
+      {
+        "title": "Produtos Brastemp, Consul ou KitchenAid que podem apresentar pequenas avarias estéticas, mas nunca avarias funcionais.",
+        "id": 2,
+        "isRight": true
+      },
+      {
+        "title": "Nenhuma das opções acima.",
+        "id": 3,
+        "isRight": false
+      }
+    ]
+  },
+  {
+    "title": "Atualmente, qual das formas de pagamento pagamento abaixo NÃO estão disponíveis no Compra Certa?",
+    "id": 10,
+    "alreadyChosen": false,
+    "type": 0,
+    "weight": 0,
+    "alternatives": [
+      {
+        "title": "Cartão de crédito e cartão Brastemp.",
+        "id": 0,
+        "isRight": false
+      },
+      {
+        "title": "Mercado Pago e PayPal.",
+        "id": 1,
+        "isRight": false
+      },
+      {
+        "title": "Transferência Bancária.",
+        "id": 2,
+        "isRight": false
+      },
+      {
+        "title": "Nenhuma das anteriores.",
+        "id": 3,
+        "isRight": true
+      }
+    ]
+  },
+  {
+    "title": "Para revender produtos Brastemp, Consul ou KitchenAid para seus clientes,qual plataforma Whirlpool deverá utilizar?",
+    "id": 11,
+    "alreadyChosen": false,
+    "type": 1,
+    "weight": 0,
+    "alternatives": [
+      {
+        "title": "Compra Certa.",
+        "id": 0,
+        "isRight": false
+      },
+      {
+        "title": "Compra Direta.",
+        "id": 1,
+        "isRight": false
+      },
+      {
+        "title": "Direto na Loja.",
+        "id": 2,
+        "isRight": true
+      },
+      {
+        "title": "Direta Compra.",
+        "id": 3,
+        "isRight": false
+      }
+    ]
+  },
+  {
+    "title": "Para ingressar no Direto na Loja, é necessário:",
+    "id": 12,
+    "alreadyChosen": false,
+    "type": 1,
+    "weight": 0,
+    "alternatives": [
+      {
+        "title": "Ser uma revenda de eletrodomêsticos.",
+        "id": 0,
+        "isRight": false
+      },
+      {
+        "title": "Não ser uma revenda de eletrodoméstico.",
+        "id": 1,
+        "isRight": false
+      },
+      {
+        "title": "Ter, no mínimo, 5 lojas físicas.",
+        "id": 2,
+        "isRight": false
+      },
+      {
+        "title": "Ter interesse em contar com os eletrodomêsticos líderes de mercado em seu portfólio!",
+        "id": 3,
+        "isRight": true
+      }
+    ]
+  },
+  {
+    "title": "Quais documentos são necessérios para cadastro no Direto na Loja?",
+    "id": 13,
+    "alreadyChosen": false,
+    "type": 1,
+    "weight": 0,
+    "alternatives": [
+      {
+        "title": "RG e CPF.",
+        "id": 0,
+        "isRight": false
+      },
+      {
+        "title": "Contrato Social e Certidão de Nascimento.",
+        "id": 1,
+        "isRight": false
+      },
+      {
+        "title": "Foto 3x4 e uma carta de indicação.",
+        "id": 2,
+        "isRight": false
+      },
+      {
+        "title": "Contrato Social, Procuração (se aplicável), Cartão CNPJ atualizado e Comprovante Bancário da Empresa",
+        "id": 3,
+        "isRight": true
+      }
+    ]
+  },
+  {
+    "title": "Se você é um parceiro Direto na Loja e algum de seus clientes reclamar na sua loja. Qual ação é mais indicada?",
+    "id": 14,
+    "alreadyChosen": false,
+    "type": 1,
+    "weight": 0,
+    "alternatives": [
+      {
+        "title": "Pedir para o cliente registrar a reclamação na internet.",
+        "id": 0,
+        "isRight": false
+      },
+      {
+        "title": "Criar um chamado através do site e/ou ligar diretamente para a Central de Atendimento Whirlpool.",
+        "id": 1,
+        "isRight": true
+      },
+      {
+        "title": "Ligar para algum contato Whirlpool.",
+        "id": 2,
+        "isRight": false
+      }
+    ]
+  },
+  {
+    "title": "Que tipo de suporte os parceiros do Direto na Loja tem acesso?",
+    "id": 15,
+    "alreadyChosen": false,
+    "type": 1,
+    "weight": 0,
+    "alternatives": [
+      {
+        "title": "Recurso dedicado para pré-venda.",
+        "id": 0,
+        "isRight": false
+      },
+      {
+        "title": "Atendente para o auxílio de cadastro.",
+        "id": 1,
+        "isRight": false
+      },
+      {
+        "title": "Executiva de Contas para alavancar as vendas.",
+        "id": 2,
+        "isRight": false
+      },
+      {
+        "title": "Todas alternativas acima.",
+        "id": 3,
+        "isRight": true
+      }
+    ]
+  },
+  {
+    "title": "Qual o limite de vendedores os parceiros do Direto na Loja conseguem cadastrar na plataforma?",
+    "id": 16,
+    "alreadyChosen": false,
+    "type": 1,
+    "weight": 0,
+    "alternatives": [
+      {
+        "title": "10",
+        "id": 0,
+        "isRight": false
+      },
+      {
+        "title": "50",
+        "id": 1,
+        "isRight": false
+      },
+      {
+        "title": "100",
+        "id": 2,
+        "isRight": false
+      },
+      {
+        "title": "Não há limites para cadastros de vendedores.",
+        "id": 3,
+        "isRight": true
+      }
+    ]
+  },
+  {
+    "title": "Para quem as comissões do Direto na Loja são pagas e com qual frequência?",
+    "id": 17,
+    "alreadyChosen": false,
+    "type": 1,
+    "weight": 0,
+    "alternatives": [
+      {
+        "title": "Para o vendedor após cada venda.",
+        "id": 0,
+        "isRight": false
+      },
+      {
+        "title": "Para a loja após cada venda.",
+        "id": 1,
+        "isRight": false
+      },
+      {
+        "title": "Para o vendedor até o 1º dia do mês seguinte.",
+        "id": 2,
+        "isRight": false
+      },
+      {
+        "title": "Para a loja até o 1º dia do mês seguinte à venda.",
+        "id": 3,
+        "isRight": true
+      }
+    ]
+  },
+  {
+    "title": "Os parceiros do Direto na Loja podem sugerir Combos que acham mais atraentes e que venderiam mais?",
+    "id": 18,
+    "alreadyChosen": false,
+    "type": 1,
+    "weight": 0,
+    "alternatives": [
+      {
+        "title": "Não.",
+        "id": 0,
+        "isRight": false
+      },
+      {
+        "title": "Sim. Basta mandar um e-mail para o diretonaloja@whirlpool.com OU sugerir através do Quero Comprar, na página inicial da plataforma.",
+        "id": 1,
+        "isRight": true
+      },
+      {
+        "title": "Sim, é necessério ligar para a Central de Atendimento.",
+        "id": 2,
+        "isRight": false
+      },
+      {
+        "title": "Nenhuma das alternativas acima.",
+        "id": 3,
+        "isRight": false
+      }
+    ]
+  },
+  {
+    "title": "Qual recursos o Direto na Loja fornece para aumentar sua competitividade de mercado?",
+    "id": 19,
+    "alreadyChosen": false,
+    "type": 1,
+    "weight": 0,
+    "alternatives": [
+      {
+        "title": "Combos com desconto progressivo.",
+        "id": 0,
+        "isRight": false
+      },
+      {
+        "title": "Cupons de desconto em categorias selecionadas.",
+        "id": 1,
+        "isRight": false
+      },
+      {
+        "title": "Campanhas de Frete Grátis.",
+        "id": 2,
+        "isRight": false
+      },
+      {
+        "title": "Todas acima.",
+        "id": 3,
+        "isRight": true
+      }
+    ]
+  },
+  {
+    "title": "Que tipo de Classificação Nacional de Atividade Econômica (CNAE) os parceiros Direto na Loja precisam ter para receber suas comissões?",
+    "id": 20,
+    "alreadyChosen": false,
+    "type": 1,
+    "weight": 0,
+    "alternatives": [
+      {
+        "title": "7490104: ATIVIDADES DE INTERMEDIÇÃO E AGENCIAMENTO DE SERVIÇOS E NEGÓCIOS EM GERAL, EXCETO IMOBILIÁRIOS.",
+        "id": 0,
+        "isRight": true
+      },
+      {
+        "title": "4619200: REPRESENTANTES COMERCIAIS E AGENTES DO COMÉRCIO DE MERCADORIAS EM GERAL NÃO ESPECIALIZADO.",
+        "id": 1,
+        "isRight": false
+      },
+      {
+        "title": "4753-9/00 - Comércio varejista especializado de eletrodomésticos e equipamentos de informática.",
+        "id": 2,
+        "isRight": false
+      },
+      {
+        "title": "4754-7/01 Comércio varejista de móveis.",
+        "id": 3,
+        "isRight": false
+      }
+    ]
+  },
+  {
+    "title": "Qual o valor máximo de comissão que os parceiros Direto na Loja podem receber em 1 mês?",
+    "id": 21,
+    "alreadyChosen": false,
+    "type": 1,
+    "weight": 0,
+    "alternatives": [
+      {
+        "title": "Até R$1000",
+        "id": 0,
+        "isRight": false
+      },
+      {
+        "title": "4 Entre R$1000 - R$5000",
+        "id": 1,
+        "isRight": false
+      },
+      {
+        "title": "Até R$10000",
+        "id": 2,
+        "isRight": false
+      },
+      {
+        "title": "Não há limite. A comissão é proporcional ás vendas!",
+        "id": 3,
+        "isRight": true
+      }
+    ]
+  }
+]
